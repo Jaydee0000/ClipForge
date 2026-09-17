@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+requests
+python-dotenv
+# Optional local transcription engine. Install separately if desired:
+# pip install faster-whisper

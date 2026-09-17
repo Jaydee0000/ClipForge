@@ -1,0 +1,5 @@
+{
+  "scripts": {"dev": "vite", "build": "tsc -b && vite build"},
+  "dependencies": {"@vitejs/plugin-react": "latest", "vite": "latest", "typescript": "latest", "react": "latest", "react-dom": "latest"},
+  "devDependencies": {"@types/react": "latest", "@types/react-dom": "latest"}
+}
